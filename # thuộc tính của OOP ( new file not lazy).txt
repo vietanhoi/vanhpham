@@ -1,0 +1,15 @@
+ # thuộc tính của OOP
+   .1bao đóng, đóng gói 
+   .2 kế thừa 
+   .3 đa hình 
+   .4 trừu tượng 
+ # phạm vi truy cập :
+   .1 private - riêng tư 
+   .2 proteced - bảo vệ 
+   .3 public - cộng đồng 
+class< class name > {};
+// người : tuổi tên điểm 
+# thuộc tính, phương thức 
+ thuộc tính : thông tin dữ liệu của đối tượng 
+ phương thức : Công việc mà mình có thể làm với thuộc tính 
+1 . xây dựng một lớp sô thực có tử sô và mẫu sô xây dựng các phương thức nhập xuất 
